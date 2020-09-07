@@ -1,0 +1,7 @@
+#windows切换页面
+多个窗口
+1、触发新窗口
+2、得知新窗口是谁？----依据窗口windows_handle来识别窗口。
+3、得到窗口的handle ----driver.window_handles(当前打开所有窗口的句柄)
+                        #列表：有序。先打开先放。新打开的窗口最后放  新窗口：-1
+4、切换：driver.switch_to.window_handles(要切换的窗口的句柄)

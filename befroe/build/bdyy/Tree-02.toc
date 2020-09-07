@@ -1,0 +1,6 @@
+('f:\\program files '
+ '(x86)\\python3\\lib\\site-packages\\urllib3-1.24.1-py3.7.egg',
+ None,
+ {'*.py', 'EGG-INFO', '*.cp37-win_amd64.pyd', '*.pyw', '*.pyc', '*.pyd'},
+ 'DATA',
+ [])
